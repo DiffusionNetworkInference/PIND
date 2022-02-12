@@ -1,6 +1,6 @@
 # PIND
 
-Code for Inferring Diffusion Networks with Probabilistic Data
+Code for “Inferring Diffusion Networks with Probabilistic Data”   submitted to SIGKDD 2022
 
 ---
 
