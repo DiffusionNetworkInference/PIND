@@ -1,8 +1,8 @@
 # PIND
 
-Code for “Inferring Diffusion Networks with Probabilistic Data”   submitted to AAAI 2024
+Code for “Learning Diffusions under Uncertainty”   submitted to AAAI 2024
 
 ---
 
-**PIND**: Main implementation of the paper "Inferring Diffusion Networks with Probabilistic Data"    
+**PIND**: Main implementation of the paper "Learning Diffusions under Uncertainty"    
 **Simulate Infection Data**: Code for simulating infection data under the Independent Cascades (IC) model
